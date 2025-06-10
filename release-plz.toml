@@ -50,4 +50,3 @@ name = "yuv-sys"
 changelog_path = "yuv-sys/CHANGELOG.md"
 #publish = true
 release = true
-
