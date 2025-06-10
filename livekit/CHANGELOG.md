@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.7.12](https://github.com/typester/rust-sdks/compare/livekit-v0.7.11...livekit-v0.7.12) - 2025-06-10
+
+### Other
+
+- Remove debouncer when fast_publish is enabled ([#649](https://github.com/typester/rust-sdks/pull/649))
+
 ## [0.7.9] - 2025-04-08
 
 ### Added
