@@ -1,6 +1,7 @@
 [workspace]
 publish = false
 release = false
+git_tag_name = "rust-sdks/{{ package }}@{{ version }}"
 
 [[package]]
 name = "imgproc"
